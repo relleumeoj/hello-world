@@ -1,2 +1,2 @@
 # hello-world
-Just another first repository
+Just another first repository written by Danke Memes.
